@@ -4,6 +4,8 @@
 
 [机器学习](https://ziyangpig.github.io/ML/)
 
+[力扣刷题笔记](https://ziyangpig.github.io/Note_LeetCode/)
+
 
 TODO:
 - 非监督学习：PCA,SVD,K-NERBOR
