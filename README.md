@@ -1,6 +1,6 @@
 "# Ziyangpig.github.io" 
 
-[优化](https://ziyangpig.github.io/opt/)
+[优化](https://ziyangpig.github.io/opt](https://ziyangpig.github.io/operation-and-optimization/)
 
 [机器学习](https://ziyangpig.github.io/ML/)
 
