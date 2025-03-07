@@ -1,5 +1,10 @@
 "# Ziyangpig.github.io" 
 
+[优化](https://ziyangpig.github.io/opt/)
+
+[机器学习](https://ziyangpig.github.io/ML/)
+
+
 TODO:
 - 非监督学习：PCA,SVD,K-NERBOR
 - 优化算法
